@@ -6,7 +6,7 @@ void main() => runApp(
           backgroundColor: Colors.pinkAccent,
           appBar: AppBar(
             title: Text('Happy Birthday'),
-            centerTitle: true,
+            
             backgroundColor: Colors.pink[400],
           ),
           body: Center(
