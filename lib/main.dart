@@ -5,9 +5,7 @@ void main() => runApp(
         home: Scaffold(
           backgroundColor: Colors.pinkAccent,
           appBar: AppBar(
-            title: Text('Happy Birthday', style: TextStyle(
-              color: Colors.red
-            ),),
+            title: Text('Happy Birthday'),
             centerTitle: true,
             backgroundColor: Colors.pink[400],
           ),
