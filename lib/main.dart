@@ -7,7 +7,7 @@ void main() => runApp(
           appBar: AppBar(
             title: Text('Happy Birthday'),
             
-            backgroundColor: Colors.pink[400],
+            backgroundColor: Colors.pink[300],
           ),
           body: Center(
             child: Image(
